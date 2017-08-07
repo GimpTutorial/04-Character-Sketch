@@ -22,3 +22,12 @@ Here are the lectures of the course for this section...
 + Human
 + Line art
 + Focus on form
+
+### 3 Drawing Options
+Section focused on principles of character creation
+
+#### Drawing Choices
++ Digital stylus
++ Pen and paper
++ Touch screen
++ Trackpad / Mouse
