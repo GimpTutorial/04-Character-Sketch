@@ -31,3 +31,9 @@ Section focused on principles of character creation
 + Pen and paper
 + Touch screen
 + Trackpad / Mouse
+
+### 4 Basic Shapes
++ Practice your basic shapes
++ This will give you confidence with your art
++ Also provide you with a strong foundation
++ Experiment combining shapes to make new shapes
