@@ -37,3 +37,22 @@ Section focused on principles of character creation
 + This will give you confidence with your art
 + Also provide you with a strong foundation
 + Experiment combining shapes to make new shapes
+
+### 5 First Principle References
+
++ Use them!
++ Gather many references
++ Help with inspiration
++ Essential communicating and convincing your viewer
++ Get source material wherever possible
++ Take care with references
+
+
+
+
+
+### 4 Basic Shapes
++ Practice your basic shapes
++ This will give you confidence with your art
++ Also provide you with a strong foundation
++ Experiment combining shapes to make new shapes
