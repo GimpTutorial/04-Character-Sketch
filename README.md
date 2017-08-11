@@ -47,12 +47,8 @@ Section focused on principles of character creation
 + Get source material wherever possible
 + Take care with references
 
-
-
-
-
-### 4 Basic Shapes
-+ Practice your basic shapes
-+ This will give you confidence with your art
-+ Also provide you with a strong foundation
-+ Experiment combining shapes to make new shapes
+### 6 Using Building Blocks
++ Putting together basic shapes to make more complicated forms
++ Used for building up an image
++ Used for breaking down an image
++ Used with layers / lighter grey
