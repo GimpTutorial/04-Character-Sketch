@@ -52,3 +52,7 @@ Section focused on principles of character creation
 + Used for building up an image
 + Used for breaking down an image
 + Used with layers / lighter grey
+
+### 7 Bone Structure
++ Understanding the foundations of a character
++ Allows sensible posing and animation
