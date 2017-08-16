@@ -61,3 +61,8 @@ Section focused on principles of character creation
 + Using the head technique for proportions
 + Allows you to construct humans of differing sizes
 + Helps maintain consistency through your drawing
+
+### 9 Basic 3D Shapes
++ Even though we are working 2D
++ Often our subjects are not flat
++ Practice your basic 3D forms
