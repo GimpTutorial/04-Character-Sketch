@@ -56,3 +56,8 @@ Section focused on principles of character creation
 ### 7 Bone Structure
 + Understanding the foundations of a character
 + Allows sensible posing and animation
+
+### 8 Proportions
++ Using the head technique for proportions
++ Allows you to construct humans of differing sizes
++ Helps maintain consistency through your drawing
