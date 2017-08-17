@@ -75,3 +75,7 @@ Section focused on principles of character creation
 + Use of Value
 + Affordance through surface lines/shading
 + Almost like faked ambient occlusion
+
+### 12 The Free Select Tool
++ Isolating parts of an image
++ Other method can be just as quick
