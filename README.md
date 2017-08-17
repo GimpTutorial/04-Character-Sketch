@@ -39,7 +39,6 @@ Section focused on principles of character creation
 + Experiment combining shapes to make new shapes
 
 ### 5 First Principle References
-
 + Use them!
 + Gather many references
 + Help with inspiration
@@ -66,3 +65,7 @@ Section focused on principles of character creation
 + Even though we are working 2D
 + Often our subjects are not flat
 + Practice your basic 3D forms
+
+### 10 Importing Line Work
++ How to import drawings you have done
++ Tips on getting the best import
