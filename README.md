@@ -69,3 +69,9 @@ Section focused on principles of character creation
 ### 10 Importing Line Work
 + How to import drawings you have done
 + Tips on getting the best import
+
+### 11 Presence Through Use Of Value
++ A sense of Depth can be achieved though multiple ways
++ Use of Value
++ Affordance through surface lines/shading
++ Almost like faked ambient occlusion
