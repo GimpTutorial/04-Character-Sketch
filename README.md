@@ -52,6 +52,9 @@ Section focused on principles of character creation
 + Used for breaking down an image
 + Used with layers / lighter grey
 
+### 6a Toolbox Transforms
++ Learn about the 6 Toolbox Transforms
+
 ### 7 Bone Structure
 + Understanding the foundations of a character
 + Allows sensible posing and animation
