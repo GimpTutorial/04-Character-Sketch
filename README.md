@@ -79,3 +79,7 @@ Section focused on principles of character creation
 ### 12 The Free Select Tool
 + Isolating parts of an image
 + Other method can be just as quick
+
+### 13 Surfaces and Overlap
++ The use of layering and overlap
++ Using Surfaces to place objects
