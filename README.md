@@ -86,3 +86,7 @@ Section focused on principles of character creation
 ### 13 Surfaces and Overlap
 + The use of layering and overlap
 + Using Surfaces to place objects
+
+### 14 Presence Through Use Of Perspective
++ Size differences of same objects
++ Foreshortening
