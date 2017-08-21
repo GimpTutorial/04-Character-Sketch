@@ -93,3 +93,6 @@ Section focused on principles of character creation
 ### 14 Presence Through Use Of Perspective
 + Size differences of same objects
 + Foreshortening
+
+### 15 Lighting Basics
++ Introduction to direction lighting
