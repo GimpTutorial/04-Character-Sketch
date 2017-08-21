@@ -87,6 +87,9 @@ Section focused on principles of character creation
 + The use of layering and overlap
 + Using Surfaces to place objects
 
+### 13a Caging
++ Using shapes to define boundaries of a drawing
+
 ### 14 Presence Through Use Of Perspective
 + Size differences of same objects
 + Foreshortening
