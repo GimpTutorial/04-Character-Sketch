@@ -96,3 +96,10 @@ Section focused on principles of character creation
 
 ### 15 Lighting Basics
 + Introduction to direction lighting
+
+### 16 Exploration Through Studies
++ Drawing done in preparation of a final piece
++ Use to understand the challenges of your work
++ Plan elements to be Used
++ Studies can be focus on a tiny part of drawing or whole form as we have been doing
++ Other studies might focus on lighting, colour, perspective and general composition.
