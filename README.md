@@ -97,6 +97,11 @@ Section focused on principles of character creation
 ### 15 Lighting Basics
 + Introduction to direction lighting
 
+### 15a Avoiding Tangents
++ Tangents occur when two or more lines converge
++ Avoiding tangent is key to keeping an illusion of depth
++ Aids clarity and readability
+
 ### 16 Exploration Through Studies
 + Drawing done in preparation of a final piece
 + Use to understand the challenges of your work
