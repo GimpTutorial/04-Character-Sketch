@@ -108,3 +108,8 @@ Section focused on principles of character creation
 + Plan elements to be Used
 + Studies can be focus on a tiny part of drawing or whole form as we have been doing
 + Other studies might focus on lighting, colour, perspective and general composition.
+
+### 17 Understanding Anatomy
++ Gives a fundamental understanding of how bodies are constructed
++ Makes it easier to construct hybrids
++ Helps with creating a realistic physique
