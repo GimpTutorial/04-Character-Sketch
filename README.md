@@ -130,12 +130,18 @@ Section focused on principles of character creation
 ### 19a Study Of The Eyes Challenge
 + Michael draws an eye study
 
-### 20 Study Of The Eyes
+### 20 Study Of The Nose
 + Getting nose made using a couple of circles and lines
 + The nose is poorly define with few hard edges
 + Most of the form is made through shading
 
-### 21 Study Of The Mouth
+### 22 Study Of The Mouth
 + Shape of the mouth is highly flexible
 + How the lips interact and overlap
 + The Shape and position of teeth
+
+### 24 Study Of The Hands
++ The Hands are as complex as the entire body in their structure
++ They can be positioned in many configurations
++ Best built from bones and then manipulated
++ You usually have access to one whilst drawing- use it as reference.
