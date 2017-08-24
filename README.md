@@ -115,5 +115,10 @@ Section focused on principles of character creation
 + Helps with creating a realistic physique
 
 ### 18 Study Of The Head
-+ Understanding the overall shape of the Head
++ Understanding the overall shape of the head
 + Learn quick ways of drawing the head in multiple positions
+
+### 19 Study Of The Eyes
++ Getting eye just right
++ What to avoid when drawing eyes
++ How the eyes and brow communicate
