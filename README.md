@@ -77,6 +77,10 @@ Section focused on principles of character creation
 + How to import drawings you have done
 + Tips on getting the best import
 
+### 10a Pacing Yourself And Staying Motivated
++ Some Larger projects can be difficult to stay motivated on
++ Michael Given some tips on how to maintain your momentum
+
 ### 11 Presence Through Use Of Value
 + A sense of Depth can be achieved though multiple ways
 + Use of Value
