@@ -126,3 +126,6 @@ Section focused on principles of character creation
 + Getting eye just right
 + What to avoid when drawing eyes
 + How the eyes and brow communicate
+
+### 19a Study Of The Eyes Challenge
++ Michael draws an eye study
