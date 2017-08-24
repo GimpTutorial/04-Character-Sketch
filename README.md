@@ -38,6 +38,10 @@ Section focused on principles of character creation
 + Also provide you with a strong foundation
 + Experiment combining shapes to make new shapes
 
+### 4a The Paths Tool
++ Super useful for drawing curves especially long ones!
++ Especially if you don’t have a stylus.
+
 ### 5 First Principle References
 + Use them!
 + Gather many references
