@@ -113,3 +113,7 @@ Section focused on principles of character creation
 + Gives a fundamental understanding of how bodies are constructed
 + Makes it easier to construct hybrids
 + Helps with creating a realistic physique
+
+### 18 Study Of The Head
++ Understanding the overall shape of the Head
++ Learn quick ways of drawing the head in multiple positions
