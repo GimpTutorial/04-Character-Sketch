@@ -151,3 +151,7 @@ Section focused on principles of character creation
 + You usually have access to one whilst drawing- use it as reference.
 
 ### 97 End Of Section 4 Challenge
++ Last Challenge Of the Section
+
+### 99 Section 4 Wrap Up
++ Well done you have completed the section!
