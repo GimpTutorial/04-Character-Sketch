@@ -25,6 +25,7 @@ Here are the lectures of the course for this section...
 
 ### 3 Drawing Options
 Section focused on principles of character creation
+(Updated 2/1/2018)
 
 #### Drawing Choices
 + Digital stylus
